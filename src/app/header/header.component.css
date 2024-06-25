@@ -1,0 +1,11 @@
+.header {
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.header img {
+    width: auto;
+    max-height: 100%;
+}
+
